@@ -17,9 +17,9 @@ The pipeline of my work is easy understood.<br/>
  Then, I use [MTCNN](https://arxiv.org/abs/1604.02878) to detect face, and crop these faces to save them. One of my [reference](https://www.dlology.com/blog/live-face-identification-with-pre-trained-vggface2-model/), it uses `opencv` built-in function to finish this, it's fast but less effective in tough condition.<br/>
  After that, [VGG_face2](https://arxiv.org/abs/1710.08092) is used to get features for each people, and save it to `.pkl` format.<br/>
  Finally, a `run demo` is made to combine all above. For simplicity, I use `Euclidean Distance` here. You may change it to other metric way like `cosine distance`.
- <center>
-    [![Demo](https://github.com/JudasDie/Real-time-film-lead-face-identify/output.png)](https://www.youtube.com/watch?v=8yf12Pq379c)
- </center>
+
+    [![image](https://github.com/JudasDie/Real-time-film-lead-face-identify/output.png)](https://www.youtube.com/watch?v=8yf12Pq379c)
+
  I will show you some details.<br/>
 
 ### **MTCNN for face detection**
