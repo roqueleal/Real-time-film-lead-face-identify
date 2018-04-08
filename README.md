@@ -162,6 +162,6 @@ Details refer to my repo. If you have better results, let me know.
 - [Chengwei's blog](https://www.dlology.com/blog/live-face-identification-with-pre-trained-vggface2-model/)
 
 
-That's all, hope this help you. :)
+That's all, hope this help you. :smiling_imp: :smiling_imp: :smiling_imp:
 
 
