@@ -1,10 +1,4 @@
----
-layout: post
-title: Real Time Film-Lead Face Identify
-date: 2018-04-08 10:50:24.000000000 +09:00
-tags: Face Detection
-comments: true
----
+See Details in my [blog](https://judasdie.github.io/2018/04/real-time-film-lead-face-identify/)
 
 ### **About**
 Since I love [Friends of six](https://zh.wikipedia.org/wiki/%E8%80%81%E5%8F%8B%E8%AE%B0) so much, I decide to make a demo for identifying their faces in the video. BTW, the demo is naive, you can make more effort on this for a better result. And `real time` means on a good GPU rather than a bad PC, since two CNN take a while. 
