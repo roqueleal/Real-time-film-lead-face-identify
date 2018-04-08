@@ -18,7 +18,7 @@ The pipeline of my work is easy understood.<br/>
  After that, [VGG_face2](https://arxiv.org/abs/1710.08092) is used to get features for each people, and save it to `.pkl` format.<br/>
  Finally, a `run demo` is made to combine all above. For simplicity, I use `Euclidean Distance` here. You may change it to other metric way like `cosine distance`.
 
-[![image](https://github.com/JudasDie/Real-time-film-lead-face-identify/output.png)](https://www.youtube.com/watch?v=8yf12Pq379c)
+[![image](https://github.com/JudasDie/Real-time-film-lead-face-identify/blob/master/output.png)](https://www.youtube.com/watch?v=8yf12Pq379c)
 
  I will show you some details.<br/>
 
